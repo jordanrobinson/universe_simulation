@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  raaVector.cpp
+  raaMatrix.cpp
+  raaMaths.cpp
+c:\0\dropbox\uni documents\computer graphics\universesimulation\raamaths\raamaths.cpp(22): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  raaMaths.vcxproj -> C:\0\Dropbox\Uni Documents\Computer Graphics\UniverseSimulation\Debug\raaMaths.lib
